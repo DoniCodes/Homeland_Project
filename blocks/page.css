@@ -7,6 +7,7 @@
   flex-direction: column;
   min-height: 100vh;
   margin: 0;
+  padding: 34px 48px 24px;
 }
 
 .page__section {
